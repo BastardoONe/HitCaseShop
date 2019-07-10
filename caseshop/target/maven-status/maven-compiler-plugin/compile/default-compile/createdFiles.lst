@@ -1,0 +1,9 @@
+com/caseshop/Entity/PhoneCase.class
+com/caseshop/Entity/Phone.class
+com/caseshop/Repository/PhoneCaseRepository.class
+com/caseshop/Controller/PhoneController.class
+com/caseshop/Entity/request/AddPhoneCaseRequest.class
+com/caseshop/Entity/request/AddPhoneRequest.class
+com/caseshop/Repository/PhoneRepository.class
+com/caseshop/CaseshopApplication.class
+com/caseshop/Controller/PhoneCaseController.class

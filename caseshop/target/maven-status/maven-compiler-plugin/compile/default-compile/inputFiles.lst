@@ -1,0 +1,9 @@
+/Users/pabloossandon/Documents/caseshop/src/main/java/com/caseshop/CaseshopApplication.java
+/Users/pabloossandon/Documents/caseshop/src/main/java/com/caseshop/Entity/request/AddPhoneRequest.java
+/Users/pabloossandon/Documents/caseshop/src/main/java/com/caseshop/Repository/PhoneCaseRepository.java
+/Users/pabloossandon/Documents/caseshop/src/main/java/com/caseshop/Entity/Phone.java
+/Users/pabloossandon/Documents/caseshop/src/main/java/com/caseshop/Entity/request/AddPhoneCaseRequest.java
+/Users/pabloossandon/Documents/caseshop/src/main/java/com/caseshop/Repository/PhoneRepository.java
+/Users/pabloossandon/Documents/caseshop/src/main/java/com/caseshop/Entity/PhoneCase.java
+/Users/pabloossandon/Documents/caseshop/src/main/java/com/caseshop/Controller/PhoneCaseController.java
+/Users/pabloossandon/Documents/caseshop/src/main/java/com/caseshop/Controller/PhoneController.java
